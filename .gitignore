@@ -1,0 +1,15 @@
+# Virtual environment
+venv/
+# __pycache__/
+# *.pyc
+
+
+
+# Models
+models/*.pkl
+
+# Outputs
+
+
+# Notebooks checkpoints
+*.ipynb_checkpoints
